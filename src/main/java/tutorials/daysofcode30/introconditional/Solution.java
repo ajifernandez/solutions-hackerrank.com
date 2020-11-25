@@ -1,4 +1,4 @@
-package tutoriasl.daysofcode30.introconditional;
+package tutorials.daysofcode30.introconditional;
 import java.io.*;
 import java.math.*;
 import java.security.*;
